@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭 I’m currently working on Jember Universitu
+🔭 I’m currently working on Jember University
 🌱 I’m currently learning Game Development
 👯 I’m looking to collaborate on Git or Github
 💬 Ask me about Tech related!
