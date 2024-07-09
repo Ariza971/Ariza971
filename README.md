@@ -1,5 +1,3 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/000/344/502/original/web-development-banner-computer-with-window-a-computer-with-a-browser-window-studying-different-programming-languages-vector-flat-line-ilustration.jpg)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Reza Thoriqis Sulthon</h1>
 <h3 align="center">A Student who's currently learning Backend Development from Indonesia</h3>
 
